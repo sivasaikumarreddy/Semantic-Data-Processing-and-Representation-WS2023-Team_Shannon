@@ -4,7 +4,7 @@
 ## Files : 
 - ``Sentence-classification.ipynb`` - Code to preprocess and train
 - ``app.py`` - streamlit code for app deployment using trained model on local
-- ``combined_sentence_data.csv`` - preprocessed data used to train in zip format
+- ``combined_sentence_data.zip`` - preprocessed data used to train in zip format
 - ``images`` - deployed app example screenshots
 
 ## Other Links :
